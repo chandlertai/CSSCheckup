@@ -1,0 +1,27 @@
+body {
+    margin: 20px; color: black;
+    padding: 0;
+    background-color: #5c1c1c;
+}
+
+h1 {
+    border-style: groove;
+    text-align: center;
+    font-size: 34px;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    border-style: ridge;
+    text-align: center;
+    font-size: 24px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p {
+    font-size: 18px;
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
